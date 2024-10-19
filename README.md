@@ -1,6 +1,6 @@
 ## **EAN: An Efficient Attention Module Guided by Normalization for Deep Neural Networks**.
 
-This is part of the code about Image Classification from my paper **EAN: An Efficient Attention Module Guided by Normalization for Deep Neural Networks**. The paper was accepted to AAAI-2024. The link to the conference is https://ojs.aaai.org/index.php/AAAI/article/view/28093.
+This is part of the code about Image Classification task from my paper **EAN: An Efficient Attention Module Guided by Normalization for Deep Neural Networks**. The paper was accepted to AAAI-2024. The link to the conference is https://ojs.aaai.org/index.php/AAAI/article/view/28093.
 
 ## CNNs for image classification
 ### Requirement
