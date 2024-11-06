@@ -23,4 +23,4 @@ This is part of the code about Image Classification task from my paper **EAN: An
   - If `cuda` is not specified, model use cpu. `cuda` can be specified as `"all"` to use all GPUs, or a list of GPUs, such as `"0,1"`
 - run `train.py`, `validate.py` or `test.py`
 
-##Please note that the entire code for the paper is not open-sourced. If you want to use this part of the code, please make sure you **REFER TO THE AUTHORS** and respect our intellectual property. Thank you for your cooperation!
+Please note that the entire code for the paper is not open-sourced. If you want to use this part of the code, please make sure you **REFER TO THE AUTHORS** and respect our intellectual property. Thank you for your cooperation!
